@@ -17,4 +17,4 @@
 <br><br>
 
 ### Ссылка на блок-схему:
-https://raw.githubusercontent.com/artllr/Sales-process-analysis-BPMN-Flowchart-/main/diagram.svg
+https://raw.githubusercontent.com/artllr/Sales-process-analysis-BPMN-Flowchart-/main/diagram%20(1).svg
